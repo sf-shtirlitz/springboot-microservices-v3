@@ -1,0 +1,18 @@
+
+ƒ
+java:S1488)"hImmediately return this expression instead of assigning it to the temporary variable "savedEmployeeDto".(¡€“Ðÿÿÿÿÿ
+f
+java:S36554"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ
+f
+java:S3655V"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿ€ú“ÿÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(Ñ¢¬¹üÿÿÿÿ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(²ž‚Î
+F
+java:S1172R"0Remove this unused method parameter "exception".(±„È¥
+r
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
+_
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ
+c
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Þûÿÿÿÿ
